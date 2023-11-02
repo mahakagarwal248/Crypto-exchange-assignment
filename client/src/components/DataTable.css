@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap");
+
+.heading {
+  font-family: "Noto Serif", serif !important;
+  font-weight: 800 !important;
+  color: rgb(85, 84, 84) !important;
+  font-size: 18px !important;
+}
+
+.table-row {
+  opacity: 0;
+  transform: translateY(10px); /* Start slightly below */
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}

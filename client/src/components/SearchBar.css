@@ -1,0 +1,14 @@
+.search-box {
+  border: 1px solid #1976d2 !important;
+  padding: 5px 10px 0px 10px !important;
+  border-radius: 15px !important;
+}
+
+.search-icon {
+  cursor: pointer;
+}
+
+.search-icon:hover, .search-icon:focus{
+  background-color: rgb(226, 220, 220);
+  padding: 2px;
+}
